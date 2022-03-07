@@ -1,0 +1,28 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+
+
+.pointer{
+    cursor: pointer;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+
+
+
+.card{
+    width: 18rem;
+    margin:25px;
+    
+}
