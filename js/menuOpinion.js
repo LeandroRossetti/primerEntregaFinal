@@ -18,3 +18,8 @@ let foodOpinion = prompt('Decinos que plato quieras agregar');
 menuOpinion.push(foodOpinion);
 
 alert('Gracias, tendremos muy en cuenta tu opinion de: ' + menuOpinion); 
+
+
+const newMenuOpinion=document.createElement('h3')
+newMenuOpinion.innerText=foodOpinion;
+root.append(newMenuOpinion);
