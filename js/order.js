@@ -20,6 +20,7 @@ for (const menu1 of products) {
     }
 }
 
+
 function purchase() {
 
 
@@ -76,3 +77,6 @@ function purchase() {
     alert('La compra suma $:' + total);
 
 }
+
+
+purchase();
